@@ -1,8 +1,9 @@
-#root {
+body {
   background: linear-gradient(
-    to bottom right,
-    rgba(211, 101, 50, 0.979),
-    rgb(17, 41, 180)
-  );
+      to bottom right,
+      rgba(211, 101, 50, 0.979),
+      rgb(17, 41, 180)
+    )
+    no-repeat center center fixed;
   background-size: cover;
 }
